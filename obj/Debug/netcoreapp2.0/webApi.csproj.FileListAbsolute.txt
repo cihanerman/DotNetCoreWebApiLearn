@@ -1,0 +1,10 @@
+/home/cihan/yazilimCalismalari/dotNet_api_sln/webApi/bin/Debug/netcoreapp2.0/webApi.deps.json
+/home/cihan/yazilimCalismalari/dotNet_api_sln/webApi/bin/Debug/netcoreapp2.0/webApi.runtimeconfig.json
+/home/cihan/yazilimCalismalari/dotNet_api_sln/webApi/bin/Debug/netcoreapp2.0/webApi.runtimeconfig.dev.json
+/home/cihan/yazilimCalismalari/dotNet_api_sln/webApi/bin/Debug/netcoreapp2.0/webApi.dll
+/home/cihan/yazilimCalismalari/dotNet_api_sln/webApi/bin/Debug/netcoreapp2.0/webApi.pdb
+/home/cihan/yazilimCalismalari/dotNet_api_sln/webApi/obj/Debug/netcoreapp2.0/webApi.csproj.CoreCompileInputs.cache
+/home/cihan/yazilimCalismalari/dotNet_api_sln/webApi/obj/Debug/netcoreapp2.0/webApi.AssemblyInfoInputs.cache
+/home/cihan/yazilimCalismalari/dotNet_api_sln/webApi/obj/Debug/netcoreapp2.0/webApi.AssemblyInfo.cs
+/home/cihan/yazilimCalismalari/dotNet_api_sln/webApi/obj/Debug/netcoreapp2.0/webApi.dll
+/home/cihan/yazilimCalismalari/dotNet_api_sln/webApi/obj/Debug/netcoreapp2.0/webApi.pdb
